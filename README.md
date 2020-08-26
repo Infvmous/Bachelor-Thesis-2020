@@ -1,4 +1,4 @@
-# Bachelor Thesis as a Software Engineer in Novosibirsk Aviation Technical College 2020
+# Bachelor thesis - Development of a web application "Online store"
 1. Documentation folder contains explanatory note for the project
 2. Import - import data for database like images, products/categories records etc
 3. Project - source code
